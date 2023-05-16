@@ -1,0 +1,70 @@
+@font-face{
+    font-family: "Geosans";
+    src: url(../fonts/Geosanst.ttf);
+    font-family: "Arsenica";
+    src: url(../fonts/Arsenica\ Medium.ttf);
+}
+
+
+
+.menu{
+    list-style: none;
+    font-family: "Arsenica", sans-serif;
+    font-size: 16px;
+}
+
+.parrafo-nuestra-historia{
+    text-align: left;
+    font-family: "Geosans", sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    color: #6A4B2E;
+    font-family: "Arsenica", sans-serif;
+}
+
+.NuestraHistoria{
+    color: #6A4B2E;
+    font-family: "Arsenica", sans-serif;
+}
+
+.QueNosInspira{
+    color: #6A4B2E;
+    font-family: "Arsenica", sans-serif;
+}
+
+.ElTaller{
+    color: #6A4B2E;
+    font-family: "Arsenica", sans-serif;
+}
+
+.Tienda{
+    color: #6A4B2E;
+    font-family: "Arsenica", sans-serif;
+}
+
+.Contacto{
+    color: #6A4B2E;
+    font-family: "Arsenica", sans-serif;
+}
+
+.SeguinosRedes{
+    color: #6A4B2E;
+    font-family: "Arsenica", sans-serif;
+}
+
+.texto-chico{
+    color: #c9beb1;
+    font-family: "Geosans", sans-serif;
+}
+
+.DerechosReservados{
+    color:  #6A4B2E;
+    font-family: "Geosans", sans-serif;
+}
+
+p{
+    color: #DAD1C5;
+    font-family: "Geosans", sans-serif;
+}
